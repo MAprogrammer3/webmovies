@@ -1,0 +1,134 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #e9e9e9;
+    color: #333;
+}
+
+header {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 1em;
+}
+
+nav {
+    background-color: #444;
+    padding: 0.5em;
+    text-align: center;
+}
+
+nav a {
+    color: #fff;
+    text-decoration: none;
+    padding: 1em;
+    margin: 0 1em;
+}
+
+nav a:hover {
+    background-color: #555;
+}
+
+section {
+    padding: 20px;
+}
+
+
+
+footer {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 1em;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
+form {
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    text-align: center;
+}
+
+label {
+    display: block;
+    margin-bottom: 10px;
+}
+
+input {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 15px;
+    box-sizing: border-box;
+}
+
+button {
+    background-color: #4caf50;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #45a049;
+}
+img {
+    width: 400px;
+    height: 300px;
+}
+
+ul{
+    color:#696969;
+    text-align: center;
+}
+li {
+    margin: 20px 0; 
+    text-align: center;
+    color:#305ea7;
+    list-style: none;
+    font-family: Times New Roman;
+    font-weight: 1000;
+    
+
+}
+h2{
+    color: rgb(211, 125, 125);
+    text-align: center;
+    font-family: Times New Roman;
+}
+
+P{
+   
+    padding-bottom: 15px;
+    font-weight: 700;
+    opacity: 0.7;
+    width: 60%;
+    text-align: center;
+    margin: 0 auto;
+    line-height: 1.7;
+    color: #120a0a ;
+    font-family: Times New Roman;
+}
+h3{
+    padding-bottom: 15px;
+    font-weight: 300;
+    opacity: 0.7;
+    width: 60%;
+    text-align: center;
+    margin: 0 auto;
+    line-height: 1.7;
+    color: rgb(141, 74, 74);
+    font-family: Times New Roman;
+    }
+    h5{
+        text-transform: uppercase;
+        font-size: 20px;
+        letter-spacing: 3px;
+        opacity: 0.9;
+        color: #868484;
+    }
